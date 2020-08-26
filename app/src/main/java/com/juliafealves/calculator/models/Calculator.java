@@ -51,3 +51,5 @@ public class Calculator
             return result;
     }
 }
+
+/* Change */
